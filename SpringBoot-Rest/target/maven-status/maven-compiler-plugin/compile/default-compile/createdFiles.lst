@@ -1,0 +1,4 @@
+main\java\com\intellect\springboot\service\UserService.class
+main\java\com\intellect\springboot\model\User.class
+main\java\com\intellect\springboot\controller\UserController.class
+main\java\com\intellect\springboot\UserServicesApplication.class
